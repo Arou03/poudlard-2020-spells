@@ -1,0 +1,40 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+	font-family: 'card-font';
+	src: url('/assets/fonts/FordsFollyRg.TTF') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'card-font';
+	src: url('/assets/fonts/FordsFollyBold.TTF') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'card-font';
+	src: url('/assets/fonts/FordsFollyItalic.TTF') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'card-font';
+	src: url('/assets/fonts/FordsFollyBoldIt.TTF') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
+
+body {
+  background-image: url('/assets/img/background.png'); /* ton image */
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed
+}

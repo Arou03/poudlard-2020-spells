@@ -2,6 +2,7 @@
 
 from database.db import db
 from models.spell_type_assoc import spell_spell_type 
+from models.spell_spe_assoc import spell_spell_spe 
 
 class Spell(db.Model):
     __tablename__ = 'spell'
@@ -10,12 +11,18 @@ class Spell(db.Model):
     id = db.Column(db.Integer, primary_key=True)
 
     name = db.Column(db.String(120), unique=True, nullable=False)
+    niveau = db.Column(db.Integer, nullable=False)
+    vitesse = db.Column(db.Boolean, nullable=False)
+
     description = db.Column(db.Text, nullable=True)
 
     amp = db.Column(db.Integer, nullable=False)
+    degat = db.Column(db.Integer, nullable=False)
     zone = db.Column(db.Integer, nullable=False)
+    cmb = db.Column(db.Integer, nullable=False)
 
     types = db.relationship('SpellType', secondary=spell_spell_type, backref='spells', lazy='subquery')
+    types = db.relationship('SpellSpe', secondary=spell_spell_spe, backref='spells', lazy='subquery')
 
 
     def to_dict(self):

@@ -5,6 +5,7 @@ from routes.spell_route import spell_bp
 
 from models.spell import Spell
 from models.spell_type import SpellType
+from models.spell_spe import SpellSpe
 
 from scripts.init_db import init_db
 

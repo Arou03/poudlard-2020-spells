@@ -1,17 +1,17 @@
 INSERT INTO spell_type (name) VALUES
-    ('Magie Élémentaire'),
-    ('Entraves'),
-    ('Métamorphose et Transmutation'),
-    ('Magie Défensive'),
-    ('Sortilèges'),
-    ('Potions'),
-    ('Condition Physique'),
-    ('Guérison'),
-    ('Créatures Magiques'),
-    ('Plantes Magiques'),
-    ('Arts Occultes'),
-    ('Histoire du Monde de la Magie'),
-    ('Enchantements');
+    ('magie elementaire'),
+    ('entraves'),
+    ('metamorphose et transmutation'),
+    ('magie defensive'),
+    ('sortileges'),
+    ('potions'),
+    ('condition physique'),
+    ('guerison'),
+    ('creatures magiques'),
+    ('plantes magiques'),
+    ('arts occultes'),
+    ('histoire du monde de la magie'),
+    ('enchantements');
 
 
 INSERT INTO spell_spe (name, description) VALUES
@@ -21,7 +21,7 @@ INSERT INTO spell_spe (name, description) VALUES
 ('Excessif', 'Gagne la propriété :Pentagram: et +1 Dgts, la cible se mettant à abondamment saigner du nez.');
 
 -- Locomotor Wibbly
-INSERT INTO spell (name, niveau, vitesse, description, amp, degat, zone, cmb)
+INSERT INTO spell (name, niveau, rapide, description, amp, degat, zone, cmb)
 VALUES (
     'Locomotor Wibbly',
     3,
@@ -34,7 +34,7 @@ VALUES (
 );
 
 -- Mucus Ad Nauseam
-INSERT INTO spell (name, niveau, vitesse, description, amp, degat, zone, cmb)
+INSERT INTO spell (name, niveau, rapide, description, amp, degat, zone, cmb)
 VALUES (
     'Mucus Ad Nauseam',
     1,

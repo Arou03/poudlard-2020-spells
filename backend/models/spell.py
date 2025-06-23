@@ -12,7 +12,7 @@ class Spell(db.Model):
 
     name = db.Column(db.String(120), unique=True, nullable=False)
     niveau = db.Column(db.Integer, nullable=False)
-    vitesse = db.Column(db.Boolean, nullable=False)
+    rapide = db.Column(db.Boolean, nullable=False)
 
     description = db.Column(db.Text, nullable=True)
 
@@ -24,13 +24,15 @@ class Spell(db.Model):
     types = db.relationship('SpellType', secondary=spell_spell_type, backref='spells', lazy='subquery')
     spes = db.relationship('SpellSpe', secondary=spell_spell_spe, backref='spell', lazy='subquery')
 
-
     def to_dict(self):
         return {
             "id": self.id,
             "name": self.name,
+            "niveau": self.niveau,
+            "rapide": self.rapide,
             "description": self.description,
             "amp": self.amp,
-            "zone":self.zone,
-            "id_type": self.id_type
+            "degat": self.degat,
+            "zone": self.zone,
+            "cmb": self.cmb,
         }

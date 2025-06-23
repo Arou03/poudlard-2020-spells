@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
+import { Spell } from '../../models/spell.model';
 
 @Component({
   selector: 'app-spell-card',
@@ -8,5 +9,5 @@ import { Component } from '@angular/core';
   styleUrl: './spell-card.component.css'
 })
 export class SpellCardComponent {
-
+  @Input() spell!: Spell;
 }

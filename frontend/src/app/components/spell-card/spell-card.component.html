@@ -2,8 +2,8 @@
   <div class="inside">
     <header>
       <div class="left">
-        <div class="title">Wingardium Leviosa</div>
-        <div class="niveau">1</div>
+        <div class="title">{{spell.name}}</div>
+        <div class="niveau">{{spell.niveau}}</div>
       </div>
       <div class="right">
         <img class="icon vitesse" src="assets/img/lent.png">
@@ -12,17 +12,16 @@
     </header>
     <div class="details">
       <div class="stats">
-        <div class="amp">12</div>
-        <div class="zone">1</div>
+        <div class="amp">{{spell.amp}}</div>
+        <div class="zone">{{spell.zone}}</div>
       </div>
-      <div class="description">Fait léviter un objet, puis le manipule dans les airs à la guise du sorcier. Ne peut pas être utilisé sur une baguette magique.</div>
-      <div class="spe">
-        <div class="spe-nom">Épars</div>
-        <div class="spe-effet">Zone+1</div>
+      <div class="description">{{spell.description}}<div class="spe">
+        <div class="spe-nom">{{spell.specialites[0].name}}</div>
+        <div class="spe-effet">{{spell.specialites[0].description}}</div>
       </div>
       <div class="spe">
-        <div class="spe-nom">Auto-Centré</div>
-        <div class="spe-effet">Le sort peut être lancé sur soi-même.</div>
+        <div class="spe-nom">{{spell.specialites[1].name}}</div>
+        <div class="spe-effet">{{spell.specialites[1].description}}</div>
         </div>
     </div>
   </div>

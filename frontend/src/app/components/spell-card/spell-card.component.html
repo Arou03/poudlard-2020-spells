@@ -2,27 +2,35 @@
   <div class="inside">
     <header>
       <div class="left">
-        <div class="title">{{spell.name}}</div>
-        <div class="niveau">{{spell.niveau}}</div>
+        <div class="title">{{ spell.name }}</div>
+        <div class="niveau">{{ spell.niveau }}</div>
       </div>
       <div class="right">
-        <img class="icon vitesse" src="assets/img/lent.png">
-        <img class="icon sortilege" src="assets/img/sortilege.png">
+        <img
+          class="icon rapide"
+          [src]="spell.rapide ? 'assets/img/rapide.png' : 'assets/img/lent.png'"
+          [alt]="spell.rapide ? 'Sort rapide' : 'Sort lent'"
+        />
+        <img
+          *ngFor="let t of spell.type"
+          class="icon sortilege"
+          [src]="getSpellImage(t)"
+          [title]="getSpellLabel(t)"
+        />
       </div>
     </header>
     <div class="details">
       <div class="stats">
-        <div class="amp">{{spell.amp}}</div>
-        <div class="zone">{{spell.zone}}</div>
+        <div class="amp">{{ spell.amp }}</div>
+        <div class="zone">{{ spell.zone }}</div>
       </div>
-      <div class="description">{{spell.description}}<div class="spe">
-        <div class="spe-nom">{{spell.specialites[0].name}}</div>
-        <div class="spe-effet">{{spell.specialites[0].description}}</div>
-      </div>
-      <div class="spe">
-        <div class="spe-nom">{{spell.specialites[1].name}}</div>
-        <div class="spe-effet">{{spell.specialites[1].description}}</div>
+      <div class="description">
+        {{ spell.description }}
+        <div *ngFor="let spe of spell.specialites" class="spe">
+          <div class="spe-nom">{{ spe.name }}</div>
+          <div class="spe-effet">{{ spe.description }}</div>
         </div>
+      </div>
     </div>
   </div>
 </div>

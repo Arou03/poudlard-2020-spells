@@ -12,5 +12,5 @@ export interface Spell {
         name: string;
         description: string;
     }[];
-    vitesse: boolean;
+    rapide: boolean;
 }

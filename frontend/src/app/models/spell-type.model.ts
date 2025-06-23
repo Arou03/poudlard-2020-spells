@@ -1,0 +1,15 @@
+export const SpellType: Record<string, string> = {
+    "magie elementaire" : "Magie Élémentaire",
+    "entraves" : "Entraves",
+    "metamorphose et transmutation" : "Métamorphose et Transmutation",
+    "magie defensive" : "Magie Défensive",
+    "sortileges" : "Sortilèges",
+    "potions" : "Potions",
+    "condition physique" : "Condition Physique",
+    "guerison" : "Guérison",
+    "creatures magiques" : "Créatures Magiques",
+    "plantes magiques" : "Plantes Magiques",
+    "arts occultes" : "Arts Occultes",
+    "histoire du monde de la magie" : "Histoire du Monde de la Magie",
+    "enchantements" : "Enchantements",
+}

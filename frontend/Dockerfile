@@ -9,5 +9,3 @@ COPY . .
 
 # Angular needs the CLI to serve
 RUN npm install -g @angular/cli
-
-CMD ["ng", "serve", "--host", "0.0.0.0"]

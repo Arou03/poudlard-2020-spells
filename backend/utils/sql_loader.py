@@ -1,6 +1,6 @@
 # utils/sql_loader.py
 
-from jinja2 import Environment, FileSystemLoader
+from jinja2 import Environment, FileSystemLoader, TemplateNotFound
 import os
 
 # Initialise le moteur Jinja2 dans le dossier "sql"
@@ -11,5 +11,9 @@ env = Environment(
 )
 
 def render_query(template_name, **params):
-    template = env.get_template(f"{template_name}.sql")
-    return template.render(**params)
+    try:
+        template = env.get_template(f"{template_name}.sql")
+        return template.render(**params)
+    except TemplateNotFound as e:
+        print(f"❌ Template SQL introuvable : {e.name}")
+        raise

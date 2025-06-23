@@ -12,3 +12,4 @@ typing_extensions
 Werkzeug 
 zipp 
 pymysql
+flask-cors

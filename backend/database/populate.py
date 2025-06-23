@@ -4,7 +4,12 @@ from database.db import db
 from models.spell_type import SpellType
 
 def reset_table():
-    db.session.execute(text("DELETE FROM spell_type"))
+    db.session.execute(text("DELETE FROM spell_spell_type;"))
+    db.session.execute(text("DELETE FROM spell_spell_spe;"))
+    db.session.execute(text("DELETE FROM spell;"))
+    db.session.execute(text("DELETE FROM spell_type;"))
+    db.session.execute(text("DELETE FROM spell_spe;"))
+
     db.session.execute(text("ALTER TABLE spell_type AUTO_INCREMENT = 1"))
     db.session.commit()
 

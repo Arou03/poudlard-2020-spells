@@ -8,7 +8,7 @@ class Spell(db.Model):
     __tablename__ = 'spell'
     __table_args__ = {'sqlite_autoincrement': True}
 
-    id = db.Column(db.Integer, primary_key=True)
+    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
 
     name = db.Column(db.String(120), unique=True, nullable=False)
     niveau = db.Column(db.Integer, nullable=False)

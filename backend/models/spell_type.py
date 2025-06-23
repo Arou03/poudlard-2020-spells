@@ -6,5 +6,5 @@ class SpellType(db.Model):
     __tablename__ = 'spell_type'
     __table_args__ = {'sqlite_autoincrement': True}
 
-    id = db.Column(db.Integer, primary_key=True)
+    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
     name = db.Column(db.String(50), unique=True, nullable=False)

@@ -1,13 +1,14 @@
-blinker @ file:///home/conda/feedstock_root/build_artifacts/blinker_1731096409132/work
-click @ file:///home/conda/feedstock_root/build_artifacts/click_1747811314515/work
-Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1747203985407/work
-Flask-SQLAlchemy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_flask-sqlalchemy_1733868589/work
-greenlet @ file:///home/conda/feedstock_root/build_artifacts/greenlet_1749160188292/work
-importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_importlib-metadata_1747934053/work
-itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1733308265247/work
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1741263328855/work
-MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1733219680183/work
-SQLAlchemy @ file:///home/conda/feedstock_root/build_artifacts/sqlalchemy_1747298839183/work
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1748959427/work
-Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1733160440960/work
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1749421620841/work
+blinker 
+click 
+Flask 
+Flask-SQLAlchemy 
+greenlet 
+importlib_metadata 
+itsdangerous 
+Jinja2 
+MarkupSafe 
+SQLAlchemy 
+typing_extensions 
+Werkzeug 
+zipp 
+pymysql

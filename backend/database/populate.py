@@ -1,11 +1,20 @@
 import os
 from sqlalchemy import text
 from database.db import db
+from models.spell_type import SpellType
 
-def init_db(app):
+def reset_table():
+    db.session.execute(text("DELETE FROM spell_type"))
+    db.session.execute(text("ALTER TABLE spell_type AUTO_INCREMENT = 1"))
+    db.session.commit()
+
+
+def populate(app):
     with app.app_context():
         db.create_all()
-        print("✅ Tables créées (si absentes)")
+        print("✅ Tables créées")
+
+        reset_table()
 
         sql_path = os.path.join(os.path.dirname(__file__), '..', 'sql', 'init_db', 'data.sql')
         with open(sql_path, "r", encoding='utf-8') as f:
@@ -19,3 +28,5 @@ def init_db(app):
         
         db.session.commit()
         print("✅ Données insérées (si non déjà présentes)")
+
+

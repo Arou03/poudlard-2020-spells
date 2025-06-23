@@ -22,7 +22,7 @@ class Spell(db.Model):
     cmb = db.Column(db.Integer, nullable=False)
 
     types = db.relationship('SpellType', secondary=spell_spell_type, backref='spells', lazy='subquery')
-    types = db.relationship('SpellSpe', secondary=spell_spell_spe, backref='spells', lazy='subquery')
+    spes = db.relationship('SpellSpe', secondary=spell_spell_spe, backref='spell', lazy='subquery')
 
 
     def to_dict(self):

@@ -7,7 +7,7 @@ from models.spell import Spell
 from models.spell_type import SpellType
 from models.spell_spe import SpellSpe
 
-from scripts.init_db import init_db
+from database.populate import populate
 
 app = Flask(__name__)
 app.config.from_object(Config)
@@ -19,7 +19,7 @@ app.register_blueprint(spell_bp)
 with app.app_context():
     db.create_all()  # <-- crée spellwiki.db avec les tables définies
 
-init_db(app)
+populate(app)
 
 if __name__ == '__main__':
     app.run(debug=True)

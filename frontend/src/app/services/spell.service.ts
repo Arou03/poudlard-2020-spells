@@ -2,12 +2,14 @@ import { Injectable } from '@angular/core';
 import { HttpClient, HttpParams } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { Spell } from '../models/spell.model';
+import { environment } from '../../environments/environment';
+
 
 @Injectable({
 	providedIn: 'root',
 })
 export class SpellService {
-	private apiUrl = 'http://127.0.0.1:5000/spells';
+	private apiUrl = `${environment.apiBaseUrl}/spells`;
 
 	constructor(private http: HttpClient) {}
 

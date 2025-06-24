@@ -1,0 +1,43 @@
+databases:
+  - name: spellwiki-db
+    databaseName: spellwiki
+    user: spell_user
+    plan: free
+    region: frankfurt
+
+services:
+  - type: web
+    name: spellwiki-backend
+    env: docker
+    region: frankfurt
+    plan: free
+    rootDir: backend/
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
+    envVars:
+      - key: DB_HOST
+        fromDatabase:
+          name: spellwiki-db
+          property: host
+      - key: DB_PORT
+        fromDatabase:
+          name: spellwiki-db
+          property: port
+      - key: DB_NAME
+        fromDatabase:
+          name: spellwiki-db
+          property: database
+      - key: DB_USER
+        fromDatabase:
+          name: spellwiki-db
+          property: user
+      - key: DB_PASSWORD
+        fromDatabase:
+          name: spellwiki-db
+          property: password
+      - key: FLASK_ENV
+        value: production
+      - key: PYTHONUNBUFFERED
+        value: "1"
+      - key: CORS_ORIGIN
+        value: https://poudlard-2020-spells.onrender.com

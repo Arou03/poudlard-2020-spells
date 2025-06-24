@@ -1,0 +1,1147 @@
+Avada Kedavra 🟢 | :Pentagram: | 7️⃣
+Amp: 5
+Dgts: ♾️ 
+Zone: 1
+
+Spé:
+Désintégrant - - Réduit à néant le corps de la cible, ne laissant aucun cadavre.
+Revigorant - - Le sorcier absorbe l'âme de la ciblée tuée, et récupère 2PV.
+
+Tue la cible. Il s'agit de l'un des trois sortilèges impardonnables, dont l'usage est strictement interdit et passible d'une peine d'emprisonnement à vie.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Bombarda 🟢 | 🛡️ 🔥 | 3️⃣
+Amp: 9
+Dgts: 1
+Zone: 2
+
+Spé:
+Destructeur - - En formulant la variante Bombarda Maxima, le sort gagne Zone+1, Dgts+1 contre les corps, et Dgts+2 contre les structures.
+Mesuré - - Le sort n'affecte plus les personnages alliés.
+
+Provoque une explosion brutale et ardente, affectant les corps comme les structures.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Catapulto 🟢 | 🛡️ | 1️⃣
+Amp: 12
+Zone: 1
+
+Spé:
+Rapide - - Gagne la propriété 🟡
+Brusque - - Dgts+1.
+
+Fait sursauter une structure amovible à la manière d'un tremplin : planche, table, porte, etc.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 06/04/2025 16:20
+Confundo 🟢 | 🛡️ ⛓️ | 3️⃣
+Amp: 8
+Cmb: 1
+Zone: 1
+
+Spé:
+Déstabilisant - - La cible lancer 1d10. Si le résultat est strictement inférieur à 6, la cible de son prochain sort est désignée au hasard.
+Informulé - - Le sort peut être lancé sans en prononcer l'incantation, et bénéficie d'Amp+3.
+
+Rend brièvement la cible confuse et pataude, maladroite. Elle subit un malus de 2 à l'Amp de son prochain sort.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Confrigo 🟢 | 🛡️ 🔥 | 3️⃣
+Amp: 10
+Dgts: 1
+Zone: 1
+
+Spé:
+Perçant - - Amp+4 lorsqu'opposé à un sortilège défensif.
+Fracassant - - Inflige 1 Dgts supplémentaire si la cible a déjà subi plus de 2 Dgts ce tour-ci.
+
+Provoque une explosion précise et localisée, au souffle ne risquant pas de causer de dommages collatéraux.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Doloris 🟢 | :Pentagram: | 7️⃣
+Amp: 5
+Cmb: 3
+Zone: 1
+
+Spé:
+Cruel - - Chaque fois que la cible passe son tour du fait des effets de Doloris, elle perd 1PV.
+Ravageur - - Chaque tour passé sous les effets de Doloris fait perdre des fonctions mentales à la cible, définitivement.
+
+Provoque d'abjectes douleur à la cible, l'intensité de celles-ci dépendant de la volonté de nuire du sorcier. La cible passe son prochain tour; et Doloris gagne Amp+8 si relancé au tour suivant sur la même cible. Il s'agit de l'un des trois sortilèges impardonnables, dont l'usage est strictement interdit et passible d'une peine d'emprisonnement à vie.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 06/04/2025 20:47
+Expelliarmus 🟢 | 🛡️ | 3️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Dirigé - - L'arme de la cible est propulsée spécifiquement dans votre direction.
+Rapide - - Gagne la propriété 🟡
+
+Fait sauter des mains de la cible l'arme qu'il porte, baguettes incluses.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Fianto Duri 🟢 | 🛡️ 🪄 | 3️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Durable - - Le gain d'Amp s'applique aux quatre prochains jets concernant le sort renforcé.
+Offensif - - Utilisation alternative permettant de renforcer un sortilège offensif pour les deux prochains jets le concernant.
+
+Renforce un sortilège de protection ou de barrière actif, lui offrant Amp+4 pour les deux prochains jets de dé le concernant.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Flipendo 🟢 | 🛡️ | 1️⃣
+Amp: 12
+Dgts: 1
+Zone: 1
+
+Spé:
+Duelliste - - Si confronté à un sortilège défensif, Amp+4.
+Rapide - - Gagne la propriété 🟡
+
+Impacte la cible d'une détonation intangible
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 07/04/2025 14:11
+Hominum Revelio 🟢 | 🛡️ 🪄 | 5️⃣
+Amp: 10
+Zone: 2
+
+Spé:
+Discriminant - - Informe le sorcier du nombre de sorciers et moldus repérés de la sorte.
+Chasseur - - Révèle également la présence des créatures non-humanoïdes.
+
+Révèle la présence d'humanoïdes aux alentours du sorcier, mais ne dissipe pas les sortilèges de camouflage. Si un individu invisible est présent, le sorcier le saura, mais ne saura pas où il se situe exactement.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Lapsucorpus 🟢 | 🛡️ | 1️⃣
+Amp: 11
+Cmb: 1
+Zone: 1
+
+Spé:
+Double - - Peut affecter deux cibles.
+Brusque - - Cmb+1, mais le Cmb se dissipe au premier sortilège offensif que subit la cible.
+
+Affecte promptement l'équilibre de la cible, à la manière d'un croc-en-jambe effectué à distance. Le sort bénéficie d'Amp+3 contre les cibles de grande taille.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Locomotor Wibbly 🟢 | 🛡️ ⛓️ | 3️⃣
+Amp: 9
+Zone: 1
+
+Spé:
+Accablant - - Cmb+1.
+Alourdissant - - Le prochain sort de la cible subit un malus d'Amp-3.
+
+Rend les jambes de la cible particulièrement molles et inefficaces. La cible ne peut plus utiliser d'action rapide pour 1d3 tour - représentant la durée d'activité du sort.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+Mucus Ad Nauseam 🟢 | 🛡️ 🌖 | 1️⃣
+Amp: 9
+Cmb: 1
+Zone: 1
+
+Spé:
+Épars - - Zone+1
+Excessif - - Gagne la propriété :Pentagram: et +1 Dgts, la cible se mettant à abondamment saigner du nez.
+
+Enrhume au sens premier la cible, dont le nez se met à couler abondamment. Les effets durent le temps d'un rhume classique, à moins qu'ils ne soient dissipés par magie.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Oculus Rufus 🟢 | 🛡️ | 5️⃣
+Amp: 12
+Dgts: 1
+Zone: 1
+
+Spé:
+Chasseur - - Gagne la propriété 🐉 si la cible est une créature non-humanoïde.
+Furtif - - Variante du sort n'infligeant pas de Dgts, mais provoquant une irritation telle que la cible est atteinte de cécité partielle durant une courte durée, et pouvant être lancée sans en prononcer la formule. En situation de combat, la réduction d'Amp passe à 5, mais le sort subit un malus d'Amp-4.
+
+Irrite gravement les organes visuels de la cible, réduisant l'Amp de tous ses sorts pour le tour en cours de 3.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Protego 🟡 | 🛡️ | 5️⃣
+Amp: 11
+Zone: 1
+
+Spé:
+Épars - - Zone+1. Le sortilège doit être incanté via la formule Protego Maxima. Si la barrière se brise en un point, l'intégralité de la barrière s'effondre.
+Réverbérant - - Si le sort pare efficacement un sortilège ennemi, le sortilège ricoche vers une autre cible, désignée au hasard, parmi tous les combattants présents.
+
+Érige une barrière invisible encaissant un sortilège ennemi à la place du sorcier.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 07/04/2025 14:45
+Revelare 🟢 | 🛡️ 🌖 | 5️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Organique - - Peut également cibler des êtres vivants, les forçant à annuler une métamorphose, un déguisement, etc.
+Inversé - - Usage alternatif du sort, via la formule Incaforma : force la cible à maintenir sa forme actuelle.
+
+Révèle la forme d'origine de l'objet cible.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Scintalor 🟡 | 🛡️ 🪄 | 1️⃣
+Amp: 11
+Zone: 1
+
+Spé:
+Persistant - - Permet d'engluer ses signaux colorés à une surface, sur laquelle ils continueront de luire pour plusieurs heures ou jusqu'à que le sorcier dissipe volontairement le sort.
+Spectaculaire - - Crée des formes grandioses similaire à des feux d'artifices, le sort pouvant, selon le résultat du dé, s'étendre d'une Zone de 1 à 3.
+
+Propulse du bout de la baguette des étincelles colorées pouvant s'élever à la manière de fusées de détresse.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Sectumsempra 🟢 | :Pentagram: | 5️⃣
+Amp: 10
+Dgts: 2
+Zone: 1
+
+Spé:
+Violent - - Gagne la propriété 💪.
+Maudit - - Si la cible subit les Dgts du sort, elle ne peut plus récupérer de PV par des moyens magiques jusqu'à la fin du combat.
+
+Zèbre le corps de la cible de multiples entailles profondes et sanguinolentes.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 07/04/2025 15:15
+Spero Patronum 🟢 | 🛡️ | 5️⃣
+Amp: 12
+Zone: 1
+
+Spé:
+Épars - - Zone+1
+Messager - - Le patronus peut voyager sur de longues distances et délivrer un message vocal.
+
+Répousse les créatures occultes, les mauvais esprits, les sortilèges de terreur ou de désespoir, via l'invocation d'un familier éphémère unique au sorcier : le patronus.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Stupefix 🟢 | 🛡️ ⛓️ | 5️⃣
+Amp: 9
+Dgts: 1
+Cmb: 1
+Zone: 1
+
+Spé:
+Informulé - -  Le sort peut être lancé sans en prononcer l'incantation, et bénéficie d'Amp+3.
+Sournois - - +1 Dgts si la cible n'est pas déjà en combat et n'est pas alerte.
+
+Impacte brutalement la cible et ralentit brièvement ses mouvements. Stupefix est le sortilège de défense non-létal le plus commun de l'arsenal des sorciers modernes.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+
+Arresto Momentum 🟡 | ⛓️ | 1️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Précis - - Amp+4
+Inversé - - En utilisant la formule Propero Momentum, la vélocité du corps est augmentée au lieu d'être réduite.
+
+Réduit considérablement la vélocité d'un corps en mouvement.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Bestia Tranquillum 🟢 | 💗 🐉 | 3️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Mystique - - Peut affecter des créatures invoquées.
+Épars - - Zone+1
+
+Apaise une créature non-invoquée, les effets pouvant aller de la rendre moins agressive jusqu'à l'endormir.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Brachium Emendo 🟢 | 💗 | 5️⃣
+Amp: 9
+Zone: 1
+
+Spé:
+Précis - - Amp+4
+Inversé - - Gagne la propriété :Pentagram:, inflige 1 Dgts, puis 2 Cmb.
+
+Répare des os brisés ou délogés.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 04/04/2025 19:25
+Cave inimicum 🟢 | ⛓️ 🛡️ | 5️⃣
+Amp: 10
+Zone: 2
+
+Spé:
+Repello Inimicum - - Modification applicable au sortilège au prix d'une action rapide : quiconque franchit de l'extérieur vers l'intérieur la barrière du Repello Inimicum est brutalement repoussé et subit 1 Cmb.
+Épars - - Zone+1
+
+Crée une bulle protectrice durable dissimulant ceux situés à l'intérieur des regards extérieurs.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Collaporta 🟢 | ⛓️ 🪄 | 3️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Alerte - - Le sorcier ayant lancé le sort est averti lorsque la serrure ciblée est forcée, que la tentative soit fructueuse ou non.
+Intraçable - - Nul sort ne permet de vérifier que la serrure enchantée l'a été par magie.
+
+Verrouille magiquement une serrure : seul le lanceur du sort peut l'ouvrir sans la forcer.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Enervatum 🟢 | 💗 | 5️⃣
+Amp: 11
+Zone: 1
+
+Spé:
+Précis - - Amp+4
+Tonifiant - - La cible bénéficie d'Amp+4 à son prochain sort.
+
+Revigore une cible affectée par tout sortilège ayant pour effet de la ralentir, la rendre pataude, lui imposer la confusion, etc.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 04/04/2025 19:45
+Episkey 🟢 | 💗 | 1️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Rapide - - Gagne la propriété 🟡
+Retardé - - La cible récupère 1PV la prochaine fois qu'elle subit un dégât, au lieu de le récupérer immédiatement.
+
+Guérit les blessures physiques les plus insignifiantes : une entaille, un hématome, un nez cassé, etc. La cible récupère 1PV.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Ferula 🟢 | 💗 | 1️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Tonifiant - - La cible bénéficie d'Amp+3 à tous ses sorts lors du tour suivant.
+Offensif - - Remplace la propriété 💗 par les propriétés ⛓️ et :Pentagram:. Le sort inflige 1 Cmb; et inflige automatiquement 1 Dgts à la cible à la fin de chacun de ses tours tant que les bandages sont enroulés.
+
+Enroule des bandages ou une attelle magique autour d'un membre blessé. La cible récupère 1PV à la fin du tour suivant.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Finite 🟢 | 💗 | 5️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Précis - - Amp+4
+Révélateur - - Informe le sorcier de la nature du sort affectant la cible guérie.
+
+Met fin aux effets d'une malédiction ou d'un sort durable affectant une cible vivante.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 05/04/2025 19:25
+Immobilis 🟢 | ⛓️ | 3️⃣
+Amp: 12
+Zone: 1
+
+Spé:
+Épars - - Zone+1
+Rapide - - Gagne la propriété 🟡
+
+Interrompt complètement mais de façon éphémère le mouvement d'un objet, qui reste figé dans sa position actuelle en faisant fi de sa vélocité, de la gravité, etc.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Impedimenta 🟡 | ⛓️ | 1️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Chasseur - - Gagne la propriété 🐉 lorsqu'utilisé contre une créature non-humanoïde, et réduit dans ces cas-ci l'Amp de la prochaine action de 6 au lieu de 4.
+Intense - - Gagne la propriété 💪.
+
+Ralentit la cible vivante, réduisant l'Amp de son prochain sort de 4.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Impeligua 🟢 | ⛓️ | 5️⃣
+Amp: 11
+Zone: 1
+
+Spé:
+Informulé - - Le sort peut être lancé sans en prononcer l'incantation, et bénéficie d'Amp+3.
+Ablateur - - Gagne la propriété :Pentagram: et réduit en bouillie la langue de la cible.
+
+Colle la langue de la cible à son palais, la rendant mutique durant un court laps de temps.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 05/04/2025 19:54
+Impero 🟢 | ⛓️ :Pentagram: | 7️⃣
+Amp: 5
+Zone: 1
+
+Spé:
+Intraçable - - Le sortilège imposé à une cible ne peut être identifié par des moyens magiques.
+Inhumain - - Gagne les propriétés 🐉 ou 🍄 lorsqu'utilisé contre des créatures non-humanoïdes ou des créatures végétales.
+
+Soumet une cible à sa volonté, la forçant à obéir à ses ordres. Il s'agit de l'un des trois sortilèges impardonnables, dont l'usage est strictement interdit et passible d'une peine d'emprisonnement à vie.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Incarcerem 🟢 | ⛓️ | 3️⃣
+Amp: 12
+Zone: 1
+
+Spé:
+Offensif - - Les liens sont renforcés de barbelés infligeant 1 Dgts à la cible.
+Précis - - Amp+2, et permet de viser spécifiquement une partie du corps de la cible.
+
+Fait surgir de la baguette des liens physiques s'enroulant autour de la cible pour la saucissonner. Les liens doivent être physiquement détachés et ne peuvent l'être par un simple contresort.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Liberacorpus 🟢 | ⛓️ | 3️⃣
+Amp: 12
+Zone: 1
+
+Spé:
+Épars - - Zone+1
+Rapide - - Gagne la propriété 🟡
+
+Libère une cible vivante de tout sortilège de lévitation; et offre à votre prochaine action physique la propriété 💪 en rendant votre corps plus souple, plus vif.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+MJ — 06/04/2025 15:18
+Petrificus Totalus 🟢 | ⛓️ | 5️⃣
+Amp: 8
+Cmb: 2
+Zone: 1
+
+Spé:
+Précis - - Amp+3.
+Chasseur - - Gagne la propriété 🐉 contre les créatures non-humanoïdes.
+
+Immobilise complètement la cible organique, rigidifiant ses membres et la privant de ses fonctions motrices, mais pas de ses sens. Une fois affectée, la cible lance 1d10 à chaque début de tour. Si le résultat est strictement supérieur à 7, la cible se libère du sortilège, mais passe tout de même le tour en cours.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Relashio 🟢 | ⛓️ 🪄 | 3️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Inversé - - Variante forçant des entraves à se resserrer, qu'elles soient appliquées par un objet ou une créature, via la formule Tenaci.
+Rapide - - Gagne la propriété 🟡
+
+Libère une cible de ses entraves physiques, qu'elles soient appliquées par un objet ou une créature.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Repello Moldum 🟢 | ⛓️ 🪄 | 5️⃣
+Amp: 9
+Zone: 2
+
+Spé:
+Assommant - - Au lieu d'être repoussés, les moldus affectés tombent dans un état d'inconscience durable.
+Épars - - Zone+1
+
+Infuse la zone ciblée d'un maléfice n'affectant que les moldus, lesquels à l'approche de ladite zone sentent l'urgence d'aller voir ailleurs : ils se souviennent soudainement d'un rendez-vous dans la ville voisine, ressentent l'envie d'aller visiter une rue éloignée, etc.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+Revigor 🟢 | 💗 | 5️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Double - - Peut affecter deux cibles.
+Intense - - Gagne la propriété ⛓️. La cible récupère 2PV; mais elle ne peut se déplacer lors de son prochain tour.
+
+Guérit partiellement la cible pour des blessures médianes, lui faisant récupérer 1PV et la libérant de toute réduction d'Amp active.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Terminus Machina 🟢 | ⛓️ | 3️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Épars - - Zone+1
+Durable - - Les appareils affectés sont indéfiniment dysfonctionnels.
+
+Met fin aux phénomènes causés par la technologie moldue : réseau wifi, téléviseur, automobile, prise d'alimentation, etc.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Vulnera Senentur 🟢 | 💗 | 5️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Vigoureux - - Si la cible tombe KO, elle peut effectuer une action lente au lieu d'une action rapide.
+Animal - - Gagne la propriété 🐉 si le sortilège cible une créature non-humanoïde, et lui fait récupérer 2PV.
+
+Referme les plaies et compense partiellement l'anémie. La cible récupère 1PV, et pourra effectuer une action rapide avant de tomber KO si, durant cet affrontement, ses PV devaient tomber à 0.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+
+Aguamenti 🟢 | 🔥 | 1️⃣
+Amp: 12
+Zone: 1
+
+Spé:
+Offensif - - Dgts+1.
+Épars - - Zone+1
+
+Fait apparaître de l'eau propre, potable et manipulable au bout de sa baguette. Particulièrement efficace contre les feux naturels ou magiques.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Capubulla 🟢 | 🔥 🌔 | 3️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Double - - Peut affecter deux cibles
+Défensif - - Recouvre le corps entier du sorcier, et réduit l'Amp du prochain sort subi de 3. Cette utilisation gagne la propriété 🟡.
+
+Recouvre la tête du sorcier d'une bulle d'air respirable et durable.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Carceraqua 🟢 | 🔥 ⛓️ | 5️⃣
+Amp: 10
+Cmb: 1
+Zone: 1
+
+Spé:
+Opaque - - Tant que la cible est emprisonnée, réduit l'Amp de ses sorts de 3.
+Brutal - - Inflige 1 Dgts avant d'appliquer le Cmb.
+
+Emprisonne la cible dans une sphère aqueuse animée de vortex centrifuges.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 03/04/2025 19:41
+Defodio 🟢 | 🔥 🌔 | 5️⃣
+Amp: 10
+Zone: 2
+
+Spé:
+Précis - - Amp+4
+Puissant - - Permet de creuse dans d'autres matières que le roche.
+
+Creuse dans la roche ou les sols pour former de larges tunnels.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+
+Gelucrus 🟢 | 🔥 ⛓️ | 5️⃣
+Amp: 10
+Zone: 2
+
+Spé:
+Stratégique - - Cmb+1.
+Solide - - Variante ne visant qu'une cible, mais celle-ci doit utiliser une action lente pour briser la glace.
+
+Gèle les membres moteurs des cibles à portée de vue, les empêchant de se déplacer à moins d'utiliser leur action rapide pour briser la glace.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Glacius 🟢 | 🔥 | 3️⃣
+Amp: 12
+Dgts: 1
+Zone: 1
+
+Spé:
+Insistant - - Vous pouvez utiliser votre action rapide pour utiliser Glacius une seconde fois. Si le dé affiche un résultat plus haut que lors de votre action lente, Glacius inflige 1 Dgts supplémentaire.
+Chasseur - - Si Glacius vise une créature non-humanoïde ou une plante, le sort gagne la propriété 🐉 ou 🍄 selon le type de cible.
+
+Crée et propulse de la glace à vertu offensive.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 03/04/2025 19:53
+Ignimora 🟢 | 🔥 | 5️⃣
+Amp: 12
+Zone: 1
+
+Spé:
+Offensif - - Dgts+1 ( au lancer du sort seulement ).
+Ardent - - Le DD de réussite pour ne pas subir devient "strictement inférieur à 8".
+
+Embrase la cible de flammes lancinantes et insistantes. À chaque début de tour, la cible lance 1d10. Si le résultat est strictement inférieur à 6, la cible subit 1 Dgts. Ignimora reste actif tant que la cible ne s'en débarrasse pas de façon appropriée, les flammes agissant comme des flammes non-magiques et pouvant être éteintes.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Incendio 🟢 | 🔥 | 1️⃣
+Amp: 11
+Dgts: 1
+Zone: 1
+
+Spé:
+Précis - - Amp+5
+Épars - - Zone +1
+
+Enflamme un combustible ou crée un trait de flammes à diriger vers l'ennemi
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Murugelu 🟢 | 🔥 | 3️⃣
+Amp: 10
+Zone: 2
+
+Spé:
+Précis - - Amp+3
+Protéiforme - - Au prix d'une action rapide, le mur de glace devient apte à se distorde pour laisser passer les sorts autorisés par le sorcier, tout en faisant obstacle aux autres; jusqu'à que le mur soit détruit.
+
+Érige un mur de glace, haut et épais.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 03/04/2025 20:06
+Nebulus 🟢 | 🔥 🌔 | 3️⃣
+Amp: 10
+Zone: 2
+
+Spé:
+Épars - - Zone+1
+Toxique - - Gagne la propriété 🍄 et inflige 1 Dgts à tout être vivant animal terminant son tour dans la zone du sort.
+
+Fait apparaître une nappe de brouillard épaisse et opaque, d'apparence naturelle.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Pestis Incendium 🟢 | 🔥 :Pentagram: | 7️⃣
+Amp: 10
+Dgts: 2
+Zone: 3
+
+Spé:
+Destructeur - - Perd sa propriété 🔥 et gagne une seconde fois la propriété :Pentagram:. Le sort inflige 3 Dgts.
+Toxique - - Perd sa propriété :Pentagram: et gagne une seconde fois la propriété 🔥. Le sort ne chasse plus les alliés et peut être contrôlé.
+
+Connu sous le nom du maléfice de Feudeymon, le sortilège incante des flammes adoptant des formes d'animaux sauvages, qui chassent et détruisent alliés comme ennemis. Le sortilège est apte à détruire des objets protégés par magie.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Protego Diabolica 🟢 | 🔥 :Pentagram: | 5️⃣
+Amp: 10
+Dgts: 1
+Zone: 2
+
+Spé:
+Révélateur - - Le sorcier est informé lorsqu'un allié pénètre le sortilège, ou lorsqu'un ennemi tente de le pénétrer.
+Marquant - - Tout ennemi blessé par Protego Diabolica conserve à vie, sauf traitement magique spécifique, la marque d'une brûlure sombre à l'endroit que les flammes ont attaqué.
+
+Cerne une zone de flammes noires intenses laissant traverser les alliés du sorcier, mais brûlant ses ennemis.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+MJ — 04/04/2025 14:18
+Saxumerco 🟢 | 🔥 | 1️⃣
+Amp: 10
+Dgts: 2
+Zone: 1
+
+Spé:
+Retardé - - Le sortilège devient un piège : la paroi rocheuse voit ses fragments déchirés et propulsés uniquement lorsqu'un individu passe à portée.
+Végétal - - Le sortilège gagne la propriété 🍄 et peut être utilisé sur des ligneux.
+
+Arrache à une paroi rocheuse d'épais fragments, qui sont ensuite propulsés vers la cible du sort.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Tonitru Aures 🟢 | 🔥 | 5️⃣
+Amp: 11
+Cmb: 1
+Zone: 2
+
+Spé:
+Épars - - Zone+1
+Offensif - - L'éclair inflige 1 Dgts à une cible, en plus du reste de ses effets.
+
+Incante un éclair incolore n'infligeant aucun dégât, mais dont la détonation crée un vacarme assourdissant.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Turbentraho 🟢 | 🔥 | 5️⃣
+Amp: 11
+Zone: 2
+
+Spé:
+Centrifuge - - Inverse les effets du sortilège pour crée un tourbillon repoussant perpétuellement autour de lui au lieu d'attirer.
+Désarmant - - Si une cible du sort résiste à ses effets sur une marge de 2 ou moins, elle perd tout de même sa baguette.
+
+Crée un tourbillon centripète prenant rapidement la forme d'une tornade miniature, pouvant arracher meubles, baguettes, et même adversaires.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 04/04/2025 14:47
+Velofulmen 🟡 | 🔥 | 3️⃣
+Amp: 10
+Dgts: 1
+Zone: 1
+
+Spé:
+Instable - - Si le résultat de votre dé se situe dans la plage [1->1+🔥], Velofulmen vous inflige également 1 Dgts. Si le résultat de votre dé se situe dans la plage [10->10+🔥], Velofulmen ne vous coûte pas votre action rapide.
+Chargé - - L'utilisation de Velofulmen vous octroie 1 charge. L'amplitude de votre prochain sortilège ayant la propriété 🔥 est augmentée de 4.
+
+Propulse un décharge électrique et ardente à la suite d'une incantation gestuelle particulièrement simple.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Ventus 🟢 | 🔥 | 1️⃣
+Amp: 12
+Dgts: 1
+Zone: 1
+
+Spé:
+Brutal - - En dépensant votre action rapide en plus de votre action lente, vous pouvez lancer dans le même tour Ventus à trois reprises sur la même cible.
+Ventus Maxima - - Zone+2
+
+Crée une bourrasque puissante à l'impact similaire à celui d'un coup de poing.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Vineispetum 🟢 | 🔥 🍄 | 3️⃣
+Amp: 10
+Dgts: 1
+Zone: 1
+
+Spé:
+Entravant - - Gagne la propriété ⛓️ et Cmb+1.
+Luxuriant - - Dans un environnement déjà verdoyant, le sort ne coûte qu'une action rapide et gagne Amp+4.
+
+Fait sourdre d'épaisses vignes s'en prenant à vos adversaires avec virulence.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+
+Amplificatum 🟢 | 🌔 | 1️⃣
+Amp: 12
+Zone: 1
+
+Spé:
+Rapide - - Gagne la propriété 🟡
+Transfigurant - - Le sort peut être appliqué sur des êtres vivants.
+
+Augmente considérablement la taille d'un objet.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Animagus 🟢 | 🌔 🐉 | 5️⃣
+Amp: 5
+Zone: 1
+
+Spé:
+Efficace - - Gagne la propriété 🟡, le sort devient informulé ( peut être lancé sans formuler d'incantation ), et le sort devient indétectable par des moyens magiques.
+Mythique - - Permet de remplacer sa forme animagus par celle d'une variante mythique de l'animal choisi.
+
+Capacité à effectuer une métamorphose complète en un animal précis. Une fois le sortilège maîtrisé, son exécution ne demande plus de lancer de dé. Reprendre sa forme humaine demande de relancer le sortilège.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Animobie / Obianima 🟢 | 🌔 🐉 | 3️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Partiel - - Permet de volontairement interrompre le sort à mi-chemin de la transformation de la cible, de sorte à ce que la cible, même sous cette forme, puisse vivre comme le ferait un simple animal.
+Végétal - - Le sort peut cibler des formes de vie végétales. Dans ce cadre spécifique, sa propriété 🐉 est remplacée par la propriété 🍄. Il ne permet pas de transformer un animal en plante, ou inversement.
+
+Transforme temporairement un animal en objet de taille équivalente via l'incantation Animobie, ou l'inverse pour la variante Obianima.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+MJ — 04/04/2025 15:37
+Capacious extremis 🟢 | 🌔 | 5️⃣
+Amp: 11
+Zone: 1
+
+Spé:
+Puissant - - Permet à des animaux de pénétrer les objets enchantés à l'aide du sort.
+Verrouillé - - Seul le lanceur du sort peut fouiller l'objet enchanté.
+
+Augmente considérablement la contenance d'un objet. Le poids contenu dans ledit objet diminue également drastiquement. Nul animal ne peut pénétrer un objet ainsi enchanté.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Duro 🟢 | 🌔 🔥 | 3️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Épars - - Zone+1
+Végétal - - Remplace la consistance rocheuse par de l'écorce, et gagne la propriété 🍄
+
+Octroie à une surface la consistance de la pierre, épaisse, solide.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Elasticus 🟢 | 🌔 | 3️⃣
+Amp: 12
+Zone: 1
+
+Spé:
+Rapide - - Gagne la propriété 🟡
+Épars - - Zone+1
+
+Octroie à une surface la consistance du caoutchouc, élastique et résistant.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 04/04/2025 16:57
+Erigo 🟢 | 🌔 🪄  | 1️⃣
+Amp: 11
+Zone: 1
+
+Spé:
+Épars - - Zone+1
+Inversé - - Démonte l'objet avec précision au lieu de le bâtir.
+
+Déploie ou bâtit un objet dont les composants sont présents et en bon état : une tente, un véhicule, etc.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Furunculus 🟢 | 🌔 | 3️⃣
+Amp: 12
+Cmb: 1
+Zone: 1
+
+Spé:
+Informulé - - Le sort peut être lancé sans en prononcer l'incantation, et bénéficie d'Amp+3.
+Irrévocable - - La sortilège dure jusqu'à qu'il soit dissipé par magie. Il souffre d'Amp-2, mais la cible du sortilège est constamment sous les effets de Cmb+1.
+
+Recouvre le corps de la cible de furoncles douloureux et irritants.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Gemino 🟢 | 🌔 | 3️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Puissant - - Permet de créer une copie d'objets de taille moyenne.
+Mystique - - Variante du sort créant une copie de soi-même, intangible, qui se meut de façon à peu près naturelle. La copie peut maintenir sa position jusqu'à quelques heures.
+
+Crée une copie de l'objet non-magique ciblé, pour peu qu'il soit de petite taille.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 04/04/2025 18:20
+Glisseo 🟢 | 🌔 | 1️⃣
+Amp: 11
+Zone: 2
+
+Spé:
+Précis - - Amp+4
+Rapide - - Gagne la propriété 🟡
+
+Rend une surface particulièrement lisse et glissante : peut être utilisé pour aplanir un escalier, etc.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Herbivius 🟢 | 🌔 🍄 | 5️⃣
+Amp: 10
+Zone: 2
+
+Spé:
+Épars - - Zone+1.
+Exaltant - - Tant que le sorcier se tient dans la zone crée, ses sorts bénéficiant de la propriété 🍄 gagnent Amp+3.
+
+Fait naître une végétation luxuriante constituée d'herbacés comme de ligneux dans la zone d'impact du sortilège, à une vitesse affolante.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Morphanima 🟢 | 🌔 🐉 | 5️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Végétal - - Utilisation alternative permettant de prendre partiellement ou entièrement l'apparence d'un végétal. La priorité 🐉 est remplacé dans ce cadre par la priorité 🍄.
+Animal - - Le sort devient utilisable sur des animaux, pour les métamorphoser partiellement ou entièrement en d'autres animaux.
+
+Transforme des parties précises du corps du sorcier en parties animales; d'un simple membre à une métamorphose complète mais éphémère.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 04/04/2025 19:32
+Oppungo 🟢 | 🌔 🐉 | 1️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Multiple - - Les oiseaux sont suffisamment nombreux pour s'en prendre à trois cibles simultanément. Ils se dissipent tous, malgré tout, si l'un d'entre eux subit de lourds dégâts.
+Offensif - - Dgts+1
+
+Forme une volée d'oiseaux de petite taille pouvant s'en prendre à toute cible. Les oiseaux harcèlent leur cible et leur imposent un malus d'Amp-3 sur tous ses sorts jusqu'à qu'ils soient chassés.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Piertotum Locomotor 🟢 | 🌔 🪄 | 7️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Double - - Peut affecter deux cibles.
+Abstrait - - Gagne la propriété 🔥 et peut affecter une surface minérale pour la modeler en une statue représentant un être vivant.
+
+Donne temporairement vie à une statue représentant un être vivant. La statue se bat à vos côtés, peut encaisser 3 Dgts, attaque avec une Amp de 15 et inflige 2 Dgts.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Pigmabscondo 🟢 | 🌔 🐉 | 5️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Intraçable - - Votre camouflage ne peut plus être détecté par des moyens magiques.
+Défensif - - La première attaque que vous devriez subir sous camouflage souffre de Amp-5.
+
+Octroie à l'être vivant affecté un camouflage -imparfait- similaire à celui d'une pieuvre, son corps adoptant les couleurs de la surface proche de laquelle il se tient. Lancer a des chances de vous extraire de votre camouflage, selon sa nature; un sortilège offensif vous sortant systématiquement de camouflage.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+Reducto 🟢 | 🌔 | 3️⃣
+Amp: 13
+Zone: 1
+
+Spé:
+Puissant - - Permet de réduit la taille d'objets de taille jusqu'à grande.
+Rapide - - Gagne la propriété 🟡
+
+Réduit considérablement la taille d'un objet de taille jusqu'à moyenne.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Sacreforma 🟢 | 🌔 | 5️⃣
+Amp: 12
+Zone: 1
+
+Spé:
+Secret - - Gagne la propriété 🪄, et seuls les individus mis dans la confidence peuvent observer les changements de forme des objets enchantés.
+Lointain - - Usage alternatif du sortilège, permettant de modifier des détails de l'apparence d'un objet à distance sans le lier à d'autres objets.
+
+Lie plusieurs objets similaires entre eux et permet de modifier la forme de tous les objets liés, à distance, tant que le sortilège est ensuite ré-appliqué à l'un des objets. Ex: le titre d'une série d'affiches, la date plusieurs copies du même document, etc.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Serpentsoria 🟢 | 🌔 🐉 | 3️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Serpentsoria Regalus - - Le serpent devient un serpent géant, plus résistant et plus puissant.
+Constricteur - - Si le serpent parvient à attaquer la cible, il peut alors l'enserrer et lui infliger 2 Cmb. Un sort attaquant la cible ainsi entravée détruit le serpent.
+
+Invoque un serpent obéissant à vos commandes, et pouvant attaquer vos cibles.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+
+Accio 🟢 | 🪄  | 3️⃣
+Amp: 11
+Zone: 1
+
+Spé:
+Lointain - - Le sort devient lançable sur des objets hors de la portée de vue, et le DD augmente avec la distance.
+Rapide - - Gagne la propriété 🟡
+
+Attire à soi un objet à portée de vue que le lanceur de sort peut nommer. Ne fonctionne pas sur les baguettes magiques.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Alohomora 🟢 | 🪄 ⛓️ | 3️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Puissant - - Le sort devient apte à déverrouiller les serrures magiques.
+Furtif - - La serrure se referme automatiquement, pourra être déverrouillée sans lancer de dé par le lanceur du sort tant qu'elle n'est pas remplacée, et le sortilège est intraçable.
+
+Déverrouille les serrures non-magiques, au contact de la baguette.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Appare Vestigium 🟢 | 🪄 | 5️⃣
+Amp: 11
+Zone: 2
+
+Spé:
+Précis - - Amp+4
+Graphique - - Peut potentiellement faire apparaître des images de la scène, en fonction du résultat du dé.
+
+Révèle les traces de passage et d'activités magiques récentes, dans une fourchette de temps dépendant du résultat du dé.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Assurdiato 🟢 | 🪄 ⛓️ | 3️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Irrévocable - - Le sort ne peut être conjuré jusqu'à que l'effet se dissipe.
+Double - - Peut affecter deux cibles.
+
+Crée des bourdonnements perceptibles uniquement par la cible du sortilège, la rendant inapte à percevoir auditivement ses alentours pour quelques minutes.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 03/04/2025 17:34
+Diffindo 🟢 | 🪄 🛡️ | 1️⃣
+Amp: 10
+Dgts: 1
+Zone: 1
+
+Spé:
+Chasseur - - Gagne la propriété 🐉 si lancé contre une créature non-humanoïde.
+Destructeur - - Amp+3 et Dgts+1 contre les entités non-vivantes.
+
+Découpe avec précision, au contact ou à distance, sur une zone réduite.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Expulso 🟢 | 🪄 | 1️⃣
+Amp: 12
+Dgts: 1
+Zone: 1
+
+Spé:
+Épars - - Zone+1
+Rapide - - Gagne la propriété 🟡. Expulso peut alors s'opposer à un sortilège adverse si celui-ci est un projectile.
+
+Repousse un objet de façon peut précise. La distance parcourue dépend du poids de l'objet et du résultat du dé.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Finite Incantatem 🟢 | 🪄 | 5️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Puissant - - Le sort devient apte à conjurer les maléfices ciblant une zone.
+Protecteur - - La cible ne peut plus être affectée par un maléfice durant une courte période, à condition qu'un maléfice soit dissipé grâce à Finite Incantatem.
+
+Met fin à un enchantement ou un maléfice temporaire ayant une cible unique non-vivante.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 03/04/2025 17:52
+Impervius 🟢 | 🪄  | 1️⃣
+Amp: 14
+Zone: 1
+
+Spé:
+Ignifuge - - La surface ciblée devient également insensible aux effets de la chaleur.
+Épars - - Zone+1
+
+Rend une surface imperméable.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Laetimollis 🟢 | 🪄  | 3️⃣
+Amp: 12
+Zone: 1
+
+Spé:
+Rassérénant - - La cible ne subit plus de perte d'attention et devient plus confiante, bénéficiant d'Amp+1 à tous ses sorts jusqu'à en échouer un ou subir un dégât. Lorsque lancé sur une cible alliée, le sort gagne la propriété 💗.
+Informulé - - Le sort peut être lancé sans en prononcer l'incantation, et bénéficie d'Amp+3.
+
+Fait bénéficier à la cible d'un état de douce allégresse, réduisant son attention.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Legilimens 🟢 | 🪄  | 5️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Occlumens - - Legilimens peut être lancé sur soi, pour protéger son esprit de tentatives d'intrusions. Dans ce cadre uniquement, il gagne la propriété 🛡️
+Intrusif - - Le sort gagne la propriété :Pentagram:
+
+Permet de lire les pensées d'une cible.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 03/04/2025 18:03
+Levicorpus 🟢 | 🪄  | 3️⃣
+Amp: 12
+Cmb: 1
+Zone: 1
+
+Spé:
+Rapide - - Gagne la propriété 🟡
+Sournois - - La cible du sort a également une chance de lâcher tout objet qu'elle tiendrait en main.
+
+Suspend une cible dans les airs, par la ou les chevilles.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Locomotor Barda 🟢 | 🪄  | 1️⃣
+Amp: 14
+Zone: 2
+
+Spé:
+Inversé - - Le sort peut, alternativement, répartir en pagaille des objets rangés.
+Épars - - Zone+1
+
+Range des objets à leur place désignée : des bagages dans une valise, des stylos dans leur trousse, etc.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Lumos 🟢 | 🪄  | 1️⃣
+Amp: 12
+Zone: 1
+
+Spé:
+Persistant - - Autorise le sort à crée des sources de lumière persistantes en le fixant sur une surface plutôt qu'à l'extrémité de la baguette.
+Lumos Maxima - - Zone+1, gagne la propriété 🟡, et éblouit légèrement et temporairement tout individu ayant la source de lumière en vue au moment de l'incantation.
+
+Crée une source de lumière à l'extrémité de la baguette du sorcier. La lumière crée disparaît suite à l'incantation "Nox".
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 03/04/2025 18:16
+Meteorribilis Recanto 🟢 | 🪄  | 3️⃣
+Amp: 14
+Zone: 2
+
+Spé:
+Puissant - - Peut également mettre fin à toute intempérie naturelle. Cet usage fait bénéficier au sort de Zone+1, mais lui impose Amp-2.
+Absorbant - - Le maléfice conjuré est stocké dans la baguette, et peut être ré-utilisé, une fois, à la guise du sorcier.
+
+Met fin à tout maléfice climatique.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Obscuro 🟢 | 🪄  | 3️⃣
+Amp: 11
+Zone: 2
+
+Spé:
+Épars - - Zone+1
+Occulte - - Gagne la propriété :Pentagram:, et l'obscurité devient une obscurité magique ne pouvant être chassée par de simples sources de lumière ou un sortilège Lumos.
+
+Plonge une zone dans l'obscurité.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Oubliettes 🟢 | 🪄 ⛓️  | 5️⃣
+Amp: 7
+Zone: 1
+
+Spé:
+Convaincant - - Remplace les souvenirs chassés par de nouveaux, au choix du lanceur de sort. La qualité des souvenirs remplacés dépendra du résultat du dé. Gagne la propriété 🐉 si lancé sur une créature non-humanoïde.
+Lobotomisant - - Gagne la propriété :Pentagram:, et chasse les souvenirs de la cible sur une durée bien plus longue.
+
+Chasse de la mémoire de la cible ses récents souvenirs.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+MJ — 03/04/2025 18:30
+Priori Incantatum 🟢 | 🪄 | 5️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Précis - - Amp+4.
+Puissant - - Révèle non seulement le dernier sortilège utilisé, mais également les précédents, dans une court laps de temps.
+
+Révèle le dernier sortilège utilisé par une baguette magique.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Reparo 🟢 | 🪄 🌔 | 1️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Épars - - Zone+1
+Puissant - - Permet de redonner à l'objet sa forme d'origine, même si certains éléments non-magiques parmi ses fragments manquent.
+
+Redonne à un objet sa forme d'origine, tant que ses fragments sont à proximité..
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Rictusempra 🟢 | 🪄 | 3️⃣
+Amp: 12
+Cmb: 1
+Zone: 1
+
+Spé:
+Épuisant - - Étend la durée du sortilège à plusieurs heures.
+Informulé - - Le sort peut être lancé sans en prononcer l'incantation, et bénéficie d'Amp+3.
+
+Force la cible à rire de façon incontrôlée pendant quelques minutes, la rendant moins habile.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+Sonorus 🟡 | 🪄 💪 | 1️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Tonitruant - - Amp+4 sur le prochain sort formulé offensif lancé par la cible.
+Inanimé - - Le sort peut être lancé sur des objets pour amplifier les sons en leur provenance : une chute d'eau, une porte qui grince, etc.
+
+Augmente considérablement le volume de la voix de la cible.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Transplanage 🟢 | 🪄 | 7️⃣
+Amp: 10
+Zone: 1
+
+Spé:
+Rapide - - Gagne la propriété 🟡
+D'escorte - - Permet de transporter un passager lors d'un transplanage, tant que le contact physique est maintenu.
+
+Fait disparaître le sorcier, et le laisse réapparaître à un endroit de sa connaissance ou qu'il a en ligne de vue.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = •
+Wingardium Leviosa 🟢 | 🪄 | 1️⃣
+Amp: 12
+Zone: 1
+
+Spé:
+Épars - - Zone+1
+Auto-Centré - - Le sort peut être lancé sur soi-même.
+
+Fait léviter un objet, puis le manipule dans les airs à la guise du sorcier. Ne peut pas être utilisé sur une baguette magique.
+
+• = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = • 
+

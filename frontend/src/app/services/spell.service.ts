@@ -1,17 +1,49 @@
 import { Injectable } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
+import { HttpClient, HttpParams } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { Spell } from '../models/spell.model';
 
 @Injectable({
-    providedIn: 'root'
+	providedIn: 'root',
 })
 export class SpellService {
-    private apiUrl = 'http://127.0.0.1:5000/spells'; // à adapter
+	private apiUrl = 'http://127.0.0.1:5000/spells';
 
-    constructor(private http: HttpClient) {}
+	constructor(private http: HttpClient) {}
 
-    getSpells(): Observable<Spell[]> {
-        return this.http.get<Spell[]>(this.apiUrl);
-    }
+	getSpells(params?: {
+		name?: string;
+		niveau?: (number | string)[];
+		type?: string[];
+		rapide?: boolean;
+		sort_by?: string;
+		sort_order?: string;
+	}): Observable<Spell[]> {
+		let httpParams = new HttpParams();
+
+		if (params?.name) {
+			httpParams = httpParams.set('name', params.name);
+		}
+		if (params?.niveau?.length) {
+			for (const n of params.niveau) {
+				httpParams = httpParams.append('niveau', n.toString());
+			}
+		}
+		if (params?.type?.length) {
+			for (const t of params.type) {
+				httpParams = httpParams.append('type', t);
+			}
+		}
+		if (params?.rapide !== undefined) {
+			httpParams = httpParams.set('rapide', String(params.rapide));
+		}
+		if (params?.sort_by) {
+			httpParams = httpParams.set('sort_by', params.sort_by);
+		}
+		if (params?.sort_order) {
+			httpParams = httpParams.set('sort_order', params.sort_order);
+		}
+
+		return this.http.get<Spell[]>(this.apiUrl, { params: httpParams });
+	}
 }

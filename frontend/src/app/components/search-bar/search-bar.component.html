@@ -1,0 +1,117 @@
+<!-- 🔍 Barre de recherche -->
+<input
+	type="text"
+	(input)="onNameChange($event)"
+	class="w-full px-4 py-2 border border-gray-500 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 bg-gray-900 text-white placeholder-gray-400 mb-4"
+	placeholder="🔍 Rechercher un sort..."
+/>
+
+<!-- 🎚️ Filtres + Tri horizontal -->
+<div class="flex flex-wrap gap-2 mb-4 w-full">
+
+	<!-- 🎚️ Niveaux -->
+	<div class="relative niveau-dropdown basis-1/5 grow">
+		<button
+			type="button"
+			(click)="showNiveauDropdown = !showNiveauDropdown"
+			class="w-full inline-flex justify-between items-center rounded-md border border-gray-500 bg-gray-800 px-4 py-2 text-sm font-medium text-white shadow-sm hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+		>
+			Niveaux ({{ getNiveauDisplay() }})
+			<span class="ml-2">&#9662;</span>
+		</button>
+		<div
+			*ngIf="showNiveauDropdown"
+			class="absolute z-10 mt-2 w-full rounded-md bg-gray-900 border border-gray-600 shadow-lg max-h-60 overflow-auto"
+		>
+			<div class="flex items-center px-4 py-2 hover:bg-gray-700" (click)="onToggleTousNiveaux()">
+				<input type="checkbox" [checked]="isTousNiveauxChecked()" class="mr-2 pointer-events-none" />
+				<label class="text-white">Tous</label>
+			</div>
+			<div *ngFor="let n of niveauOptions" class="flex items-center px-4 py-2 hover:bg-gray-700" (click)="onNiveauToggle(n)">
+				<input type="checkbox" [checked]="niveaux.includes(n)" class="mr-2 pointer-events-none" />
+				<label class="text-white">Niveau {{ n }}</label>
+			</div>
+		</div>
+	</div>
+
+	<!-- 🧪 Types -->
+	<div class="relative type-dropdown basis-1/5 grow">
+		<button
+			type="button"
+			(click)="showTypeDropdown = !showTypeDropdown"
+			class="w-full inline-flex justify-between items-center rounded-md border border-gray-500 bg-gray-800 px-4 py-2 text-sm font-medium text-white shadow-sm hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+		>
+			Types ({{ getTypeDisplay() }})
+			<span class="ml-2">&#9662;</span>
+		</button>
+		<div
+			*ngIf="showTypeDropdown"
+			class="absolute z-10 mt-2 w-full rounded-md bg-gray-900 border border-gray-600 shadow-lg max-h-60 overflow-auto"
+		>
+			<div class="flex items-center px-4 py-2 hover:bg-gray-700" (click)="onToggleTousTypes()">
+				<input type="checkbox" [checked]="isTousTypesChecked()" class="mr-2 pointer-events-none" />
+				<label class="text-white">Tous</label>
+			</div>
+			<div *ngFor="let t of typeOptions" class="flex items-center px-4 py-2 hover:bg-gray-700" (click)="onTypeToggle(t.value)">
+				<input type="checkbox" [checked]="types.includes(t.value)" class="mr-2 pointer-events-none" />
+				<label class="text-white">{{ t.label }}</label>
+			</div>
+		</div>
+	</div>
+
+	<!-- ⚡ Vitesse -->
+	<div class="relative rapide-dropdown basis-1/5 grow">
+		<button
+			type="button"
+			(click)="showRapideDropdown = !showRapideDropdown"
+			class="w-full inline-flex justify-between items-center rounded-md border border-gray-500 bg-gray-800 px-4 py-2 text-sm font-medium text-white shadow-sm hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+		>
+			Vitesse
+			<span class="ml-2">&#9662;</span>
+		</button>
+		<div *ngIf="showRapideDropdown" class="absolute z-10 mt-2 w-full rounded-md bg-gray-900 border border-gray-600 shadow-lg">
+			<div class="flex items-center px-4 py-2 hover:bg-gray-700" (click)="onRapideChange(undefined)">
+				<input type="radio" name="rapide" [checked]="rapide === undefined" class="mr-2 pointer-events-none" />
+				<label class="text-white">Tous</label>
+			</div>
+			<div class="flex items-center px-4 py-2 hover:bg-gray-700" (click)="onRapideChange(true)">
+				<input type="radio" name="rapide" [checked]="rapide === true" class="mr-2 pointer-events-none" />
+				<label class="text-white">Rapide</label>
+			</div>
+			<div class="flex items-center px-4 py-2 hover:bg-gray-700" (click)="onRapideChange(false)">
+				<input type="radio" name="rapide" [checked]="rapide === false" class="mr-2 pointer-events-none" />
+				<label class="text-white">Lent</label>
+			</div>
+		</div>
+	</div>
+
+	<!-- 📊 Tri -->
+	<div class="relative sort-dropdown basis-1/5 grow">
+		<button
+			type="button"
+			(click)="showSortDropdown = !showSortDropdown"
+			class="w-full inline-flex justify-between items-center rounded-md border border-gray-500 bg-gray-800 px-4 py-2 text-sm font-medium text-white shadow-sm hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+		>
+			Trier par ({{ getSortDisplay() }})
+			<span class="ml-2">&#9662;</span>
+		</button>
+		<div
+			*ngIf="showSortDropdown"
+			class="absolute z-10 mt-2 w-full rounded-md bg-gray-900 border border-gray-600 shadow-lg"
+		>
+			<div
+				*ngFor="let opt of sortOptions"
+				class="flex items-center px-4 py-2 hover:bg-gray-700"
+				(click)="sortSelection = opt.value; onSortChanged()"
+			>
+				<input
+					type="radio"
+					name="sort"
+					[checked]="sortSelection === opt.value"
+					class="mr-2 pointer-events-none"
+				/>
+				<label class="text-white">{{ opt.label }}</label>
+			</div>
+		</div>
+	</div>
+</div>

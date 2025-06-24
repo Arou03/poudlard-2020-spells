@@ -1,36 +1,42 @@
-<div class="card">
-  <div class="inside">
-    <header>
-      <div class="left">
-        <div class="title">{{ spell.name }}</div>
-        <div class="niveau">{{ spell.niveau }}</div>
-      </div>
-      <div class="right">
-        <img
-          class="icon rapide"
-          [src]="spell.rapide ? 'assets/img/rapide.png' : 'assets/img/lent.png'"
-          [alt]="spell.rapide ? 'Sort rapide' : 'Sort lent'"
-        />
-        <img
-          *ngFor="let t of spell.type"
-          class="icon sortilege"
-          [src]="getSpellImage(t)"
-          [title]="getSpellLabel(t)"
-        />
-      </div>
-    </header>
-    <div class="details">
-      <div class="stats">
-        <div class="amp">{{ spell.amp }}</div>
-        <div class="zone">{{ spell.zone }}</div>
-      </div>
-      <div class="description">
-        {{ spell.description }}
-        <div *ngFor="let spe of spell.specialites" class="spe">
-          <div class="spe-nom">{{ spe.name }}</div>
-          <div class="spe-effet">{{ spe.description }}</div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="w-full p-2 rounded-lg shadow-md bg-neutral-900 text-white">
+	<div class="p-1 bg-[rgba(80,47,34,0.88)] text-neutral-200 font-[card-font]">
+		<header class="flex text-3xl mb-1 justify-between">
+			<div class="flex flex-col items-start w-3/4 gap-0">
+				<div class="font-bold">{{ spell.name }}</div>
+				<div class="italic">{{ spell.niveau }}</div>
+			</div>
+			<div class="flex flex-row items-end justify-end w-1/4 gap-2 mt-2">
+				<img
+					class="w-6 h-6"
+					[src]="spell.rapide ? 'assets/img/rapide.png' : 'assets/img/lent.png'"
+					[alt]="spell.rapide ? 'Sort rapide' : 'Sort lent'"
+				/>
+				<img
+					*ngFor="let t of spell.type"
+					class="w-6 h-6"
+					[src]="getSpellImage(t)"
+					[title]="getSpellLabel(t)"
+				/>
+			</div>
+		</header>
+
+		<div class="flex flex-col text-base">
+			<div class="flex flex-row gap-5 mb-2">
+				<div class="font-bold text-2xl before:content-['AMP_'] before:font-normal before:text-xl">
+					{{ spell.amp }}
+				</div>
+				<div class="font-bold text-2xl before:content-['Zone_'] before:font-normal before:text-xl">
+					{{ spell.zone }}
+				</div>
+			</div>
+
+			<div class="mb-2">
+				{{ spell.description }}
+				<div *ngFor="let spe of spell.specialites" class="flex flex-col mb-2">
+					<div class="self-center font-bold text-xl">{{ spe.name }}</div>
+					<div>{{ spe.description }}</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>

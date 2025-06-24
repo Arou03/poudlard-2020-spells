@@ -1,0 +1,14 @@
+<label *ngIf="label">{{ label }}</label>
+<select
+    [multiple]="multiple"
+    [(ngModel)]="selected"
+    (ngModelChange)="onChange()"
+    class="filtre-select"
+>
+    <option
+    *ngFor="let option of options"
+    [ngValue]="option.value"
+    >
+    {{ option.label }}
+    </option>
+</select>

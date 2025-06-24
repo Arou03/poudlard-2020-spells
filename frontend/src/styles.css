@@ -1,4 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @font-face {
 	font-family: 'card-font';
 	src: url('/assets/fonts/FordsFollyRg.TTF') format('truetype');
@@ -31,6 +34,17 @@
 	font-display: swap;
 }
 
+@font-face {
+	font-family: 'harry-potter';
+	src: url('/assets/fonts/HARRYP.TTF') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.font-title {
+	font-family: 'harry-potter', cursive;
+}
+
 body {
   background-image: url('/assets/img/background.png'); /* ton image */
 	background-size: cover;
@@ -38,3 +52,4 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed
 }
+

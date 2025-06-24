@@ -1,18 +1,3 @@
-INSERT INTO spell_type (name) VALUES
-    ('magie elementaire'),
-    ('entraves'),
-    ('metamorphose et transmutation'),
-    ('magie defensive'),
-    ('sortileges'),
-    ('potions'),
-    ('condition physique'),
-    ('guerison'),
-    ('creatures magiques'),
-    ('plantes magiques'),
-    ('arts occultes'),
-    ('histoire du monde de la magie'),
-    ('enchantements');
-
 INSERT IGNORE INTO spell_spe (id, name, description) VALUES (1, 'Désintégrant', 'Réduit à néant le corps de la cible, ne laissant aucun cadavre.');
 INSERT IGNORE INTO spell_spe (id, name, description) VALUES (2, 'Revigorant', 'Le sorcier absorbe l''âme de la ciblée tuée, et récupère 2PV.');
 INSERT INTO spell (id, name, niveau, rapide, description, amp, degat, zone, cmb) VALUES (1, 'Avada Kedavra', 7, false, 'Tue la cible. Il s''agit de l''un des trois sortilèges impardonnables, dont l''usage est strictement interdit et passible d''une peine d''emprisonnement à vie.', 5, NULL, 1, 0);

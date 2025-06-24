@@ -29,6 +29,7 @@ def populate(app):
         statements = [stmt.strip() for stmt in sql_content.split(';') if stmt.strip()]
 
         for stmt in statements:
+            # print(f'requete executée {stmt}')
             db.session.execute(text(stmt))
         
         db.session.commit()

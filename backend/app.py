@@ -1,3 +1,4 @@
+import os
 from flask import Flask
 from flask_cors import CORS
 from config import Config
@@ -13,14 +14,14 @@ from database.populate import populate
 app = Flask(__name__)
 app.config.from_object(Config)
 
-CORS(app, resources={r"/*": {"origins": "http://localhost:4200"}})
+CORS(app, resources={r"/*": {"origins": os.getenv("CORS_ORIGIN", "*")}})
 
 db.init_app(app)
 
 app.register_blueprint(spell_bp)
 
 with app.app_context():
-    db.create_all()  # <-- crée spellwiki.db avec les tables définies
+    db.create_all() 
 
 populate(app)
 

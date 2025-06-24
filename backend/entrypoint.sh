@@ -1,14 +1,14 @@
 #!/bin/bash
 
-echo "🔧 Waiting for MySQL to be ready..."
+echo "🔧 Waiting for PostgreSQL to be ready..."
 
-# Tentatives de connexion à MySQL (change user/password/db/host selon besoin)
-export MYSQL_PWD="$DB_PASSWORD"
-until mysqladmin ping -h"$DB_HOST" -u"$DB_USER" --silent; do
+# Boucle jusqu’à ce que la base réponde (utilise pg_isready)
+until pg_isready -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USER"; do
+    >&2 echo "PostgreSQL is unavailable - sleeping"
     sleep 2
 done
 
-echo "✅ MySQL is ready."
+echo "✅ PostgreSQL is ready."
 
 # Lancer l'app Flask
 exec python app.py

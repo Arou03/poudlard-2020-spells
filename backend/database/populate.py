@@ -10,7 +10,7 @@ def reset_table():
     db.session.execute(text("DELETE FROM spell_type;"))
     db.session.execute(text("DELETE FROM spell_spe;"))
 
-    db.session.execute(text("ALTER TABLE spell_type AUTO_INCREMENT = 1"))
+    db.session.execute(text("ALTER SEQUENCE spell_type_id_seq RESTART WITH 1"))
     db.session.commit()
 
 

@@ -54,10 +54,10 @@ def get_spells(name_filter=None, niveaux=None, types=None, rapide=None, sort_by=
 
         # Parsing JSON
         for row in rows:
-            if "type" in row and isinstance(row["type"], str):
-                row["type"] = json.loads(row["type"])
-            if "specialites" in row and isinstance(row["specialites"], str):
-                row["specialites"] = json.loads(row["specialites"])
+            if "type" not in row or row["type"] is None:
+                row["type"] = []
+            if "specialites" not in row or row["specialites"] is None:
+                row["specialites"] = []
 
         return rows
 

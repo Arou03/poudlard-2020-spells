@@ -132,7 +132,8 @@ for block in spell_blocks:
             if spe_name_clean not in spe_name_to_id:
                 spe_name_to_id[spe_name_clean] = current_spe_id
                 sql_statements.append(
-                    f"INSERT IGNORE INTO spell_spe (id, name, description) VALUES ({current_spe_id}, '{spe_name_clean}', '{spe_desc_clean}');"
+                    f"INSERT INTO spell_spe (id, name, description) VALUES ({current_spe_id}, '{spe_name_clean}', '{spe_desc_clean}') "
+                    f"ON CONFLICT (id) DO NOTHING;"
                 )
                 current_spe_id += 1
             spes.append((spe_name_to_id[spe_name_clean], spe_name_clean))

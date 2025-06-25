@@ -1,5 +1,7 @@
-<app-search-bar (search)="onSearch($event)" />
+<div class="px-4 md:px-12 lg:px-20">
+    <app-search-bar (search)="onSearch($event)" />
 
-<div class="spell-list grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-2 gap-y-2">
-  <app-spell-card *ngFor="let spell of spells" [spell]="spell"></app-spell-card>
+    <div class="spell-list grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-2 gap-y-2">
+        <app-spell-card *ngFor="let spell of spells" [spell]="spell"></app-spell-card>
+    </div>
 </div>

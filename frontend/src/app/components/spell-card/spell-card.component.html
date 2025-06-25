@@ -5,7 +5,8 @@
   <!-- Header stylisé -->
   <!-- Header fusionné avec la carte -->
   <div
-    class="bg-gradient-to-r from-[#3b2e4a] to-[#2e2f3e] border-b border-hogwarts-gold px-4 pt-4 pb-3 -mt-4 -mx-4 rounded-b-md shadow-inner"
+    class="bg-gradient-to-r border-b border-hogwarts-gold px-4 pt-4 pb-3 -mt-4 -mx-4 rounded-b-md shadow-inner"
+    [ngClass]="getGradientClasses(spell.type[0], spell.type[1])"
   >
     <div class="flex justify-between items-start">
       <!-- Titre + niveau -->

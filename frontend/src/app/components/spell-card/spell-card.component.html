@@ -1,84 +1,82 @@
 <!-- Main container -->
 <div
-  class="w-full max-w-md p-4 rounded-lg border border-hogwarts-gold bg-[rgba(44,47,59,0.75)] shadow-[0_0_12px_rgba(0,0,0,0.6)] text-neutral-200 font-[nice-font] relative backdrop-blur-sm"
+	class="w-full max-w-md p-4 rounded-lg border border-hogwarts-gold bg-[rgba(44,47,59,0.75)] shadow-[0_0_12px_rgba(0,0,0,0.6)] text-neutral-200 font-[nice-font] relative backdrop-blur-sm"
 >
-  <!-- Header stylisé -->
-  <!-- Header fusionné avec la carte -->
-  <div
-    class="bg-gradient-to-r border-b border-hogwarts-gold px-4 pt-4 pb-3 -mt-4 -mx-4 rounded-b-md shadow-inner"
-    [ngClass]="getGradientClasses(spell.type[0], spell.type[1])"
-  >
-    <div class="flex justify-between items-start">
-      <!-- Titre + niveau -->
-      <div class="flex flex-col w-3/4">
-        <div class="text-3xl font-bold text-hogwarts-gold leading-tight">
-          {{ spell.name }}
-        </div>
-        <div class="italic text-lg text-gray-300 mt-1">
-          Année {{ spell.niveau }}
-        </div>
-      </div>
+	<!-- Header stylisé -->
+	<div
+		class="bg-gradient-to-r border-b border-hogwarts-gold px-4 pt-4 pb-3 -mt-4 -mx-4 rounded-b-md shadow-inner"
+		[ngClass]="getGradientClasses(spell.type[0], spell.type[1])"
+	>
+		<div class="flex justify-between items-start">
+			<!-- Titre + niveau -->
+			<div class="flex flex-col w-3/4">
+				<div class="text-4xl font-bold text-hogwarts-gold leading-tight">
+					{{ spell.name }}
+				</div>
+				<div class="italic text-xl text-gray-300 mt-1">
+					Année {{ spell.niveau }}
+				</div>
+			</div>
 
-      <!-- Icônes -->
-      <div class="flex items-end gap-2 w-1/4 justify-end mt-1">
-        <img
-          class="w-6 h-6 drop-shadow-[0_0_3px_rgba(255,255,255,0.5)]"
-          [src]="spell.rapide ? 'assets/img/rapide.png' : 'assets/img/lent.png'"
-          [alt]="spell.rapide ? 'Sort rapide' : 'Sort lent'"
-        />
-        <img
-          *ngFor="let t of spell.type"
-          class="w-6 h-6 drop-shadow-[0_0_3px_rgba(255,255,255,0.5)]"
-          [src]="getSpellImage(t)"
-          [title]="getSpellLabel(t)"
-        />
-      </div>
-    </div>
-  </div>
+			<!-- Icônes -->
+			<div class="flex items-end gap-2 w-1/4 justify-end mt-1">
+				<img
+					class="w-6 h-6 drop-shadow-[0_0_3px_rgba(255,255,255,0.5)]"
+					[src]="spell.rapide ? 'assets/img/rapide.png' : 'assets/img/lent.png'"
+					[alt]="spell.rapide ? 'Sort rapide' : 'Sort lent'"
+				/>
+				<img
+					*ngFor="let t of spell.type"
+					class="w-6 h-6 drop-shadow-[0_0_3px_rgba(255,255,255,0.5)]"
+					[src]="getSpellImage(t)"
+					[title]="getSpellLabel(t)"
+				/>
+			</div>
+		</div>
+	</div>
 
-  <!-- AMP & Zone -->
-  <div class="flex gap-6 mb-3 mt-3">
-    <div
-      class="text-xl font-bold text-hogwarts-gold before:content-['AMP_'] before:font-normal before:text-base before:text-gray-300"
-    >
-      {{ spell.amp }}
-    </div>
-    <div
-      class="text-xl font-bold text-hogwarts-gold before:content-['Zone_'] before:font-normal before:text-base before:text-gray-300"
-    >
-      {{ spell.zone }}
-    </div>
-  </div>
+	<!-- AMP & Zone -->
+	<div class="flex gap-6 mb-4 mt-4">
+		<div
+			class="text-2xl font-bold text-hogwarts-gold before:content-['AMP_'] before:font-normal before:text-lg before:text-gray-300"
+		>
+			{{ spell.amp }}
+		</div>
+		<div
+			class="text-2xl font-bold text-hogwarts-gold before:content-['Zone_'] before:font-normal before:text-lg before:text-gray-300"
+		>
+			{{ spell.zone }}
+		</div>
+	</div>
 
-  <!-- Description -->
-  <p class="text-lg text-neutral-200 leading-snug mb-3">
-    {{ spell.description }}
-  </p>
+	<!-- Description -->
+	<p class="text-xl text-neutral-200 leading-snug mb-4">
+		{{ spell.description }}
+	</p>
 
-  <!-- Specialité blocks with dividers -->
-  <div *ngFor="let spe of spell.specialites" class="mb-3">
-    <!-- Centered line with spe name -->
-    <div class="flex items-center my-4">
-      <div class="flex-grow border-t border-hogwarts-gold"></div>
-      <span
-        class="px-3 text-base font-bold text-hogwarts-gold tracking-widest uppercase"
-        >{{ spe.name }}</span
-      >
-      <div class="flex-grow border-t border-hogwarts-gold"></div>
-    </div>
+	<!-- Specialité blocks with dividers -->
+	<div *ngFor="let spe of spell.specialites" class="mb-4">
+		<!-- Centered line with spe name -->
+		<div class="flex items-center my-4">
+			<div class="flex-grow border-t border-hogwarts-gold"></div>
+			<span
+				class="px-3 text-lg font-bold text-hogwarts-gold tracking-widest uppercase"
+				>{{ spe.name }}</span
+			>
+			<div class="flex-grow border-t border-hogwarts-gold"></div>
+		</div>
 
-    <!-- Description under the line -->
-    <p class="text-base text-gray-300 px-1 leading-relaxed">
-      {{ spe.description }}
-    </p>
-  </div>
+		<!-- Description under the line -->
+		<p class="text-lg text-gray-300 px-1 leading-relaxed">
+			{{ spe.description }}
+		</p>
+	</div>
 </div>
 
-<!-- 👇 Dummy element to force Tailwind to include gradient classes -->
+<!-- Dummy classes for Tailwind to keep -->
 <div class="hidden">
 	<!-- From colors -->
 	<div class="from-[#5b1d1d] from-[#444c5c] from-[#3d3a5a] from-[#223344] from-[#4b3b5c] from-[#3a5230] from-[#5c4020] from-[#3e664d] from-[#4c3f2f] from-[#3d5c3f] from-[#1d3928] from-[#3b3b3b] from-[#3b2e4a] from-[#333333]"></div>
-
 	<!-- To colors -->
 	<div class="to-[#5b1d1d] to-[#444c5c] to-[#3d3a5a] to-[#223344] to-[#4b3b5c] to-[#3a5230] to-[#5c4020] to-[#3e664d] to-[#4c3f2f] to-[#3d5c3f] to-[#1d3928] to-[#3b3b3b] to-[#3b2e4a] to-[#222222] to-transparent"></div>
 </div>

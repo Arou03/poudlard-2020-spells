@@ -6,7 +6,7 @@ module.exports = {
         "nice-font": ["nice-font"],
       },
       colors: {
-        "hogwarts-gold": "#8E6724",
+        "hogwarts-gold": "#AF9465",
         "hogwarts-dark": "#1b1a17",
         "hogwarts-panel": "#502F22",
       },

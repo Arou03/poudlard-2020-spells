@@ -1,10 +1,11 @@
 <!-- Main container -->
+<!-- Main container -->
 <div
-	class="w-full max-w-md p-4 rounded-lg border border-hogwarts-gold bg-[rgba(44,47,59,0.75)] shadow-[0_0_12px_rgba(0,0,0,0.6)] text-neutral-200 font-[nice-font] relative backdrop-blur-sm"
+	class="w-full max-w-md p-4 rounded-lg border border-hogwarts-gold bg-[rgba(44,47,59,0.4)] shadow-[0_0_10px_rgba(212,175,55,0.25)] text-neutral-200 font-[nice-font] relative backdrop-blur-sm transition-shadow duration-300"
 >
 	<!-- Header stylisé -->
 	<div
-		class="bg-gradient-to-r border-b border-hogwarts-gold px-4 pt-4 pb-3 -mt-4 -mx-4 rounded-b-md shadow-inner"
+		class="bg-gradient-to-r border-b border-hogwarts-gold px-4 pt-4 pb-3 -mt-4 -mx-4 rounded-t-md shadow-inner"
 		[ngClass]="getGradientClasses(spell.type[0], spell.type[1])"
 	>
 		<div class="flex justify-between items-start">
@@ -36,7 +37,7 @@
 	</div>
 
 	<!-- AMP & Zone -->
-	<div class="flex gap-6 mb-4 mt-4">
+	<div *ngIf="expanded" class="flex gap-6 mb-4 mt-4">
 		<div
 			class="text-2xl font-bold text-hogwarts-gold before:content-['AMP_'] before:font-normal before:text-lg before:text-gray-300"
 		>
@@ -50,28 +51,37 @@
 	</div>
 
 	<!-- Description -->
-	<p class="text-xl text-neutral-200 leading-snug mb-4">
-		{{ spell.description }}
-	</p>
+  <p class="text-xl text-neutral-200 leading-snug mb-4">
+    {{ expanded ? spell.description : shortDescription }}
+  </p>
 
 	<!-- Specialité blocks with dividers -->
-	<div *ngFor="let spe of spell.specialites" class="mb-4">
-		<!-- Centered line with spe name -->
-		<div class="flex items-center my-4">
-			<div class="flex-grow border-t border-hogwarts-gold"></div>
-			<span
-				class="px-3 text-lg font-bold text-hogwarts-gold tracking-widest uppercase"
-				>{{ spe.name }}</span
-			>
-			<div class="flex-grow border-t border-hogwarts-gold"></div>
-		</div>
+  <div *ngIf="expanded">
+    <div *ngFor="let spe of spell.specialites" class="mb-4">
+      <!-- Centered line with spe name -->
+      <div class="flex items-center my-4">
+        <div class="flex-grow border-t border-hogwarts-gold"></div>
+        <span
+          class="px-3 text-lg font-bold text-hogwarts-gold tracking-widest uppercase"
+          >{{ spe.name }}</span
+        >
+        <div class="flex-grow border-t border-hogwarts-gold"></div>
+      </div>
 
-		<!-- Description under the line -->
-		<p class="text-lg text-gray-300 px-1 leading-relaxed">
-			{{ spe.description }}
-		</p>
-	</div>
+      <!-- Description under the line -->
+      <p class="text-lg text-gray-300 px-1 leading-relaxed">
+        {{ spe.description }}
+      </p>
+    </div>
+  </div>
 </div>
+
+<button
+	class="mt-2 text-hogwarts-gold text-sm font-bold hover:underline transition"
+	(click)="toggleExpanded()"
+>
+	{{ expanded ? 'Réduire le sort ▲' : 'Voir plus ▼' }}
+</button>
 
 <!-- Dummy classes for Tailwind to keep -->
 <div class="hidden">

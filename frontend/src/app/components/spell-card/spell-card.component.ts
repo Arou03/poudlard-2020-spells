@@ -16,6 +16,8 @@ import {
 export class SpellCardComponent {
   @Input() spell!: Spell;
 
+	expanded = false;
+
   getSpellLabel = getSpellLabel;
   getSpellImage = getSpellTypeImagePath;
 
@@ -44,4 +46,14 @@ export class SpellCardComponent {
 
     return [fromClass, toClass];
   }
+
+	toggleExpanded() {
+		this.expanded = !this.expanded;
+	}
+
+	get shortDescription(): string {
+		return this.spell.description.length > 79
+			? this.spell.description.slice(0, 79) + '...'
+			: this.spell.description;
+	}
 }

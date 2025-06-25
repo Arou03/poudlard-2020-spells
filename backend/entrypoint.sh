@@ -11,4 +11,5 @@ done
 echo "✅ PostgreSQL is ready."
 
 # Lancer l'app Flask
-exec python app.py
+# exec python app.py
+exec gunicorn --bind 0.0.0.0:8000 --workers 1 app:app

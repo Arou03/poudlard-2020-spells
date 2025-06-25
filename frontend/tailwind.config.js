@@ -3,7 +3,7 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				'card-font': ['card-font', 'sans-serif'],
+				'nice-font': ['nice-font'],
 			},
 		},
 	},

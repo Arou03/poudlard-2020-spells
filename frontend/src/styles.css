@@ -35,6 +35,38 @@
 }
 
 @font-face {
+	font-family: 'nice-font';
+	src: url('/assets/fonts/CormorantGaramond-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'nice-font';
+	src: url('/assets/fonts/CormorantGaramond-Bold.TTF') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'nice-font';
+	src: url('/assets/fonts/CormorantGaramond-Italic.TTF') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'nice-font';
+	src: url('/assets/fonts/CormorantGaramond-BoldItalic.TTF') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
 	font-family: 'harry-potter';
 	src: url('/assets/fonts/HARRYP.TTF') format('truetype');
 	font-weight: normal;

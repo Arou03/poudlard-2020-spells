@@ -11,5 +11,5 @@ import { SpellListComponent } from "./components/spell-list/spell-list.component
   imports: [SpellListComponent]
 })
 export class AppComponent {
-  title = 'frontend';
+  title = 'Spells';
 }

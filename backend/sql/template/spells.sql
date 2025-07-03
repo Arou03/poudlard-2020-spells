@@ -46,7 +46,7 @@ LEFT JOIN types_by_spell t ON fs.id = t.spell_id
 LEFT JOIN specialites_by_spell sp ON fs.id = sp.spell_id
 ORDER BY
     {% if sort_by == 'niveau' %}
-        fs.niveau, fs.name {{ (sort_order or 'asc') | upper }}
+        fs.niveau {{ (sort_order or 'asc') | upper }}, fs.name
     {% else %}
         fs.name {{ (sort_order or 'asc') | upper }}
     {% endif %}

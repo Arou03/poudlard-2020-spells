@@ -4,8 +4,9 @@ import unicodedata
 
 # === Chemins ===
 # J'utilise le nom de fichier que vous avez fourni.
-raw_path = Path("raw_spells.txt") 
-output_path = Path("generated_spells_clean.sql")
+current_dir = Path(__file__).parent
+raw_path = current_dir / "raw_spells.txt"
+output_path = current_dir / "generated_spells_clean.sql"
 
 # === Mapping emojis → types ===
 # (Inchangé)
@@ -101,8 +102,7 @@ for block in spell_blocks:
         if line.lower().startswith("amp:"):
             amp = int(line.split(":")[1].strip())
         elif line.lower().startswith("dgts:"):
-            val = line.split(":")[1].strip()
-            degat = "NULL" if "♾️" in val or not val else int(val)
+            degat = int(line.split(":")[1].strip())
         elif line.lower().startswith("zone:"):
             zone = int(line.split(":")[1].strip())
         elif line.lower().startswith("cmb:"):

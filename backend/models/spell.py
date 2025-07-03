@@ -17,7 +17,7 @@ class Spell(db.Model):
     description = db.Column(db.Text, nullable=True)
 
     amp = db.Column(db.Integer, nullable=False)
-    degat = db.Column(db.Integer, nullable=True)
+    degat = db.Column(db.Integer, nullable=False)
     zone = db.Column(db.Integer, nullable=False)
     cmb = db.Column(db.Integer, nullable=False)
 

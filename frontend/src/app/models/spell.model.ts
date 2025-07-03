@@ -5,7 +5,7 @@ export interface Spell {
     amp: number;
     degat: number;
     zone: string;
-    cmb: string;
+    cmb: number;
     niveau: number;
     type: string[];
     specialites: {
